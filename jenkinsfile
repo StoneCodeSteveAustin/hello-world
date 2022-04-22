@@ -22,9 +22,10 @@ pipeline {
       }
     } 
     
-     stage(''){
+     stage('Profit'){
       steps {
         // script
+        echo 'Checkout'
       }
     } 
   }  
